@@ -1,0 +1,289 @@
+body{
+margin: 0px;
+text-align: center;
+font-family: 'Merriweather', serif;
+}
+
+h1 {
+margin: 50px auto 0 auto ;
+font-family: 'Sacramento', cursive;
+font-size: 5.625rem;
+color: #66BFBF;
+line-height: 2;
+}
+
+h2 {
+font-family: 'Montserrat', sans-serif;
+font-size: 1.5rem;
+font-weight: normal;
+color: #66BFBF;
+}
+
+h3 {
+font-family: 'Montserrat', sans-serif;
+color: #11999E;
+}
+
+a {
+color: #11999E;
+}
+
+.top_container {
+background-color: #EAF6F6;
+position: relative;
+padding-top: 50px;
+}
+
+.middle-container {
+margin-top: 10px;
+}
+
+.bottom-container {
+padding: 50px;
+margin-top: 50px;
+background-color: #66BFBF
+}
+
+.top-cloud {
+position: relative;
+left: 240px;
+top: 5px;
+
+}
+
+.bottom-cloud {
+position: absolute;
+left: 415px;
+bottom: 300px;
+}
+
+.skill-row {
+width: 50%;
+margin:70px auto 70px auto;
+text-align: left;
+line-height: 2;
+}
+
+.programming {
+width: 25%;
+float: left;
+margin-right: 30px
+}
+
+.managing-pic {
+width: 25%;
+float: right;
+margin-left: 30px
+}
+
+.casino-dealer {
+width: 25%;
+float: left;
+margin-right: 30px;
+}
+
+.managing_description {
+text-align: right;
+}
+
+.managing_title {
+text-align: right;
+}
+
+.my_bio {
+color: #40513E
+}
+
+.profile {
+width: 50%;
+margin: auto
+}
+
+hr {
+width: 10%;
+border : 5px dashed #368B85
+;
+
+}
+
+.BUTTON_JVO {
+   background: #3D94F6;
+   background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 15px;
+   line-height: 15px;
+   color: #FFFFFF;
+   font-family: Helvetica;
+   width: 104px;
+   font-size: 15px;
+   font-weight: 100;
+   padding: 16px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_JVO:hover {
+   border: solid #337FED 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.trademark {
+color: #EAF6F6;
+margin: 0;
+}
+
+.BUTTON_JVO2 {
+   background: #3D94F6;
+   background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 15px;
+   line-height: 15px;
+   color: #FFFFFF;
+   font-family: Verdana;
+   width: 104px;
+   font-size: 12px;
+   font-weight: 100;
+   padding: 12px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+top_button
+}
+
+.BUTTON_JVO2:hover {
+   border: solid #337FED 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.top_container_work_history {
+background-color: #EAF6F6;
+margin-bottom: 2.4rem;
+}
+
+.work_slot {
+margin: 5% auto 10% auto
+}
+
+.work_history_h1 {
+margin-top: 0;
+}
+
+.manager {
+max-width: 30%;
+}
+
+.casino_image {
+max-width: 35%;
+float: left;
+margin-right: 30px;
+padding-bottom: 20px;
+}
+
+.work_description {
+width: 80%;
+margin:70px auto 70px auto;
+text-align: center;
+line-height: 2;
+color: #40513E;
+}
+
+.work_name {    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+.shuffle_image {
+max-width: 30%;
+float: right;
+margin-left: 30px;
+padding-bottom: 20px;
+
+}
+
+.storekeeper_image {
+max-height: 10%;
+max-width: 25%;
+float: left;
+margin-right: 30px;
+padding-bottom: 50px;
+
+}
+
+.storekeeper_description {
+text-align: left;
+padding-bottom: 70px;
+}
+
+.casino_dealer_description {
+text-align: left;
+}
+
+.casino_manager_description {
+text-align: left;
+}
+
+.online_shop_assistant_image {
+max-height: 30%;
+max-width: 30%;
+float: right;
+margin-left: 30px;
+padding-bottom: 20px;
+}
+
+.online_shop_assistant_description {
+text-align: left;
+}
+
+.shop_manager_image {
+max-height: 10%;
+max-width: 25%;
+float: left;
+margin-right: 30px;
+padding-bottom: 50px;
+}
+
+.shop_manager_description {
+text-align: left;
+}
