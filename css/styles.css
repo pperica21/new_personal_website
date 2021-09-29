@@ -2,6 +2,7 @@ body{
 margin: 0px;
 text-align: center;
 font-family: 'Merriweather', serif;
+color: #40514E;
 }
 
 h1 {
@@ -17,6 +18,7 @@ font-family: 'Montserrat', sans-serif;
 font-size: 1.5rem;
 font-weight: normal;
 color: #66BFBF;
+padding-bottom: 10px;
 }
 
 h3 {
@@ -35,7 +37,7 @@ padding-top: 50px;
 }
 
 .middle-container {
-margin-top: 10px;
+margin: 100px 0;
 }
 
 .bottom-container {
